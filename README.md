@@ -1,10 +1,10 @@
 ### Hi there 👋, This is a Md. Masum Billah.
-#### I am a Android Developer.
+#### I am a Networking Developer.
 I am completing undergraduate from Computer Science and Engineering(CSE).I have strong technical skills as well.
 
 Skills: 
 
-- 🌱 I’m currently learning Android 
+- 🌱 I’m currently learning Networking 
 - 👯 I’m looking to collaborate on Github 
 
 
